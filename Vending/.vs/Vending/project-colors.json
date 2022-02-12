@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d49d81c4-b165-4f72-8af4-92ef338df220": {
+      "ProjectGuid": "d49d81c4-b165-4f72-8af4-92ef338df220",
+      "DisplayName": "Vending",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
